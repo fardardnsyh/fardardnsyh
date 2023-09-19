@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farid Ardiansyah</h1>
-<h3 align="center">I am a learner</h3> 
+<h3 align="center">I am a student at Gunadarma University and I am always studying everywhere</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
 
-- 🌱 I’m currently learning **Arduino, Fotografi, Game Online**
+- 🌱 I’m currently learning C, Arduino,electricity, computer networks and embedded systems, about computer systems **Arduino, Fotografi, Game Online**
 
 - ⚡ Fun fact **I think I am Handsome**
 
