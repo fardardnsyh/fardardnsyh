@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farid Ardiansyah</h1>
-<h3 align="center">I am a learner</h3> https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding&psig=AOvVaw1WGmlFKrA_R_LWM4NwAZl7&ust=1695202257567000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKClvdWutoEDFQAAAAAdAAAAABAE
+<h3 align="center">I am a learner</h3> ![image](https://github.com/fardardnsyh/fardardnsyh/assets/145440594/43eaa89b-3a27-49f6-94ba-e56e056c870e)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
 
