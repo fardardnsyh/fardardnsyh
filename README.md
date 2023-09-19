@@ -1,12 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Farid Ardiansyah</h1>
-<h3 align="center">I am a learner</h3> 
-![image](https://github.com/fardardnsyh/fardardnsyh/assets/145440594/51f514e0-4e02-4423-9e3f-2f7899ecb84f)
-
+<h3 align="center">I am a learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardardnsyh" alt="fardardnsyh" /></a> </p>
 
 - 🌱 I’m currently learning **Arduino, Fotografi, Game Online**
 
