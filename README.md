@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farid Ardiansyah</h1>
-<h3 align="center">I am a student at Gunadarma University and I am always studying everywhere</h3> # Gifs
+<h3 align="center">I am a student at Gunadarma University and I am always studying everywhere</h3> #fardardnsyh
 
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
