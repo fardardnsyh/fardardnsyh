@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farid Ardiansyah</h1>
-<h3 align="center">I am a learner</h3> ![image](https://github.com/fardardnsyh/fardardnsyh/assets/145440594/43eaa89b-3a27-49f6-94ba-e56e056c870e)
-
+<h3 align="center">I am a learner</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
 
