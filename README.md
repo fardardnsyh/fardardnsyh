@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Farid Ardiansyah</h1>
 <h3 align="center">I am a learner</h3> 
-https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4748oj6p3mq32cszo1bfzyjztn96bv74psfu7dk36v&ep=v1_gifs_search&rid=giphy.gif&ct=g
+![image](https://github.com/fardardnsyh/fardardnsyh/assets/145440594/51f514e0-4e02-4423-9e3f-2f7899ecb84f)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
 
