@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
 
-- 🌱 I’m currently learning  **Arduino, Fotografi, Game Online**
+- 🌱 I’m currently learning C, Arduino,electricity, computer networks and embedded systems, about computer systems **Arduino, Fotografi, Game Online**
 
 - ⚡ Fun fact **I think I am Handsome**
 
@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardardnsyh&show_icons=true&locale=en" alt="fardardnsyh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardardnsyh&" alt="fardardnsyh" /></p>
+
