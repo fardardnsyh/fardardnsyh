@@ -4,12 +4,12 @@
 <h3 align="center">I am a graduate of at Gunadarma University, undergraduate computer systems major and I am always studying everywhere</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
-<p align="left"> <a href="https://www.instagram.com/fardardnsyh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"" alt="fardardnsyh"  </p>
+
 
 - 🌱 I’m currently learning **Arduino, Fotografi, Game Online**
-
 - ⚡ Fun fact **I think I am Handsome**
 - 👯 I’m looking to collaborate with make people better by learning together
+- - 📫 How to reach me **faridardiansyah061@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
