@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Arduino, Fotografi, Game Online**
 - ⚡ Fun fact **I think I am Handsome**
-- 👯 I’m looking to collaborate with make people better by learning together
+- 👯 I’m looking to collaborate with **make people better by learning together**
 - 📫 How to reach me **faridardiansyah061@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
