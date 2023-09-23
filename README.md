@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farid Ardiansyah</h1>
-<h3 align="center">I am a student at Gunadarma University and I am always studying everywhere</h3>
+<h3 align="center">I am a graduate of at Gunadarma University, undergraduate computer systems major and I am always studying everywhere</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
 
