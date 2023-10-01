@@ -16,7 +16,6 @@
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: faridardiansyah061@gmail.com;
 
-![Code Time](http://img.shields.io/badge/Code%Time-blue)
 
 <h1 align="center"> Hai, nama saya Farid Ardiansyah</h1>
 <h3 align="center"> Saya lulusan Universitas Gunadarma, sarjana jurusan sistem komputer dan saya selalu belajar dimana-mana, saya tidak menyukai perempuan dalam hal apapun(jodoh).</h3>
