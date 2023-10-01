@@ -47,7 +47,6 @@ href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardardnsyh&" alt="fardardnsyh" /></p>
 
-`SHOW_COMMIT`       flag can be set to `False` to hide the commit stats
 
 **I'm an early 🐤** 
 ```text
@@ -58,7 +57,6 @@ href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src
 
 ```
 
-`SHOW_DAYS_OF_WEEK`       flag can be set to `False` to hide the commits made on different days of week
 
 📅 **I'm Most Productive on Sundays** 
 
@@ -73,7 +71,6 @@ Sunday       86 commits     █████░░░░░░░░░░░░�
 
 ```
 
-`SHOW_LANGUAGE`       flag can be set to `False` to hide the Coding Language You use
 
 ```text
 💬 Languages:
@@ -81,7 +78,8 @@ C++              5 hrs 26 mins       ██████████████�
 
 
 
-`SHOW_OS`       flag can be set to `False` to hide the OS details
+
+
 
 ```text
 💻 Operating Systems:
