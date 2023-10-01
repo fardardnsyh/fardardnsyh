@@ -7,6 +7,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
 
 **Talking about Personal Stuffs:**
 
@@ -45,6 +46,56 @@ href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardardnsyh&show_icons=true&locale=en" alt="fardardnsyh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardardnsyh&" alt="fardardnsyh" /></p>
+
+`SHOW_COMMIT`       flag can be set to `False` to hide the commit stats
+
+**I'm an early 🐤** 
+```text
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+```
+
+`SHOW_DAYS_OF_WEEK`       flag can be set to `False` to hide the commits made on different days of week
+
+📅 **I'm Most Productive on Sundays** 
+
+```text
+Monday       50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+Tuesday      85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.43% 
+Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.78% 
+Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
+Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
+Sunday       86 commits     █████░░░░░░░░░░░░░░░░░░░░   22.69%
+
+```
+
+`SHOW_LANGUAGE`       flag can be set to `False` to hide the Coding Language You use
+
+```text
+💬 Languages:
+C++              5 hrs 26 mins       ███████████████░░░░░░░░░░   61.97%
+
+
+
+`SHOW_OS`       flag can be set to `False` to hide the OS details
+
+```text
+💻 Operating Systems:
+Windows                  8 hrs 46 mins       █████████████████████████   100.0%
+```
+
+
+
+
+
+
+
+
+
 
 ## License
 Licensed under [@fardardnsyh, Copyright (c) 2023 Farid Ardiansyah](./LICENSE)
