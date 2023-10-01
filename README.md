@@ -10,16 +10,6 @@
 
 
 
-
-
-<p align="center" >
-    <a href="https://github.com/fardardnsyh/github-stats-terminal-style">
-        <img width="450px" src="https://cdn.jsdelivr.net/gh/fardardnsyh/github-stats-terminal-style@latest/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
-    </a>
-</p>
-
-
-
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
