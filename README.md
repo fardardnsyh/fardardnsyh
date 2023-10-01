@@ -48,8 +48,13 @@ href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src
 
 
 
+![chart-bar](/assets/github-total-bicycle.svg)
 
+![chart-bar](/assets/github-languages-sledge.svg)
 
+![chart-bar](/assets/leetcode-total-info-circle.svg)
+
+[![README build](https://github.com/fardardnsyh/fardardnsyh/actions/workflows/main.yaml/badge.svg)](https://github.com/fardardnsyh/fardardnsyh/actions/workflows/main.yaml)
 
 ## License
 Licensed under [@fardardnsyh, Copyright (c) 2023 Farid Ardiansyah](./LICENSE)
