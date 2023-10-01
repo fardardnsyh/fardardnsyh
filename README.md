@@ -4,6 +4,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fardardnsyh)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/fardardnsyh/)
 
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=35&pause=1000&center=true&color=0C8AD2&vCenter=true&width=435&lines=Hey,+I'm+Bishwo+!!" alt="Typing SVG" /></a>  
+<h4>A Passionate Student/Developer from Nepal.</h4> 
+</div>
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
@@ -47,9 +52,6 @@ href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardardnsyh&" alt="fardardnsyh" /></p>
 
-
-![](https://raw.githubusercontent.com/fardardnsyh/fardardnsyh//output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/fardardnsyh//fardardnsyh//output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 
