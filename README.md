@@ -9,6 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
 
 
+[![README build](https://github.com/fardardnsyh/fardardnsyh/actions/workflows/main.yaml/badge.svg)](https://github.com/fardardnsyh/fardardnsyh/actions/workflows/main.yaml)
+
+
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
@@ -54,7 +57,7 @@ href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src
 
 ![chart-bar](/assets/leetcode-total-info-circle.svg)
 
-[![README build](https://github.com/fardardnsyh/fardardnsyh/actions/workflows/main.yaml/badge.svg)](https://github.com/fardardnsyh/fardardnsyh/actions/workflows/main.yaml)
+
 
 ## License
 Licensed under [@fardardnsyh, Copyright (c) 2023 Farid Ardiansyah](./LICENSE)
