@@ -29,3 +29,6 @@ href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardardnsyh&show_icons=true&locale=en" alt="fardardnsyh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardardnsyh&" alt="fardardnsyh" /></p>
+
+## License
+Licensed under [@fardardnsyh, Copyright (c) 2023 Farid Ardiansyah](./LICENSE)
