@@ -9,7 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardardnsyh&label=Profile%20views&color=0e75b6&style=flat" alt="fardardnsyh" /> </p>
 
 
-[![README build](https://github.com/fardardnsyh/fardardnsyh/actions/workflows/main.yaml/badge.svg)](https://github.com/fardardnsyh/fardardnsyh/actions/workflows/main.yaml)
 
 
 **Talking about Personal Stuffs:**
@@ -51,13 +50,11 @@ href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src
 
 
 
-![chart-bar](/assets/github-total-bicycle.svg)
-
-![chart-bar](/assets/github-languages-sledge.svg)
-
-![chart-bar](/assets/leetcode-total-info-circle.svg)
-
-
+<p align="center" >
+    <a href="https://github.com/fardardnsyh/github-stats-terminal-style">
+        <img width="450px" src="https://cdn.jsdelivr.net/gh/fardardnsyh/github-stats-terminal-style@latest/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+    </a>
+</p>
 
 ## License
 Licensed under [@fardardnsyh, Copyright (c) 2023 Farid Ardiansyah](./LICENSE)
