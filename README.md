@@ -8,6 +8,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=35&pause=1000&center=true&color=0C8AD2&vCenter=true&width=435&lines=ig saya+@fardardnsyh+" alt="Typing SVG" /></a>
 </div>
 
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=35&pause=1000&center=true&color=0C8AD2&vCenter=true&width=435&lines=arduino dasar" alt="Typing SVG" /></a>
+</div>
+
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
