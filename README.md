@@ -48,6 +48,10 @@ href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardardnsyh&" alt="fardardnsyh" /></p>
 
 
+![](https://raw.githubusercontent.com/fardardnsyh/fardardnsyh//output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/fardardnsyh//fardardnsyh//output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 
 ## License
 Licensed under [@fardardnsyh, Copyright (c) 2023 Farid Ardiansyah](./LICENSE)
