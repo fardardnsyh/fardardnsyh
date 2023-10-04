@@ -23,18 +23,8 @@
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: faridardiansyah061@gmail.com;
 
 
-<h1 align="center"> Hai, nama saya Farid Ardiansyah</h1>
-<h3 align="center"> Saya lulusan Universitas Gunadarma, sarjana jurusan sistem komputer dan saya selalu belajar dimana-mana, saya tidak menyukai perempuan dalam hal apapun(jodoh).</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <a href="https://twitter.com/fardardnsyh" target="blank"><img src="https://img.shields.io/twitter/follow/fardardnsyh?logo=twitter&style=for-the-badge" alt="fardardnsyh"  </p>
 
-
-
-- 🌱 I’m currently learning **Arduino, Fotografi, Game Online**
-- ⚡ Fun fact **Menurutku, aku tampan**
-- 👯 I’m looking to collaborate with **membuat orang menjadi lebih baik dengan belajar bersama**
-- 📫 How to reach me **faridardiansyah061@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
