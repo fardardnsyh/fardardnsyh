@@ -55,5 +55,3 @@ href="https://www.w3schools.com/cpp/" target="dark" rel="noreferrer"> <img src="
 
 
 
-## License
-Licensed under [@fardardnsyh, Copyright (c) 2023 Farid Ardiansyah](./LICENSE)
